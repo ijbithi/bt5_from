@@ -1,0 +1,15 @@
+.container{
+	overflow: hidden;
+}
+
+.menu{
+	width: 40%;
+	float: right;
+}
+
+.form1{
+	padding: 70px 40px;
+}
+.button{
+	margin: 50px 500px;
+}
